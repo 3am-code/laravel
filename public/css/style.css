@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    width: 50%;
+    margin: auto;
+}
+article {
+    margin-top: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    border-bottom: 2px #222222 solid;
+    padding: 10px;
+}
+
